@@ -13,3 +13,4 @@ for i in range(len(numbers)):
 		    print("{}={}*{}".format(numbers[i], one, k))
 		break
 
+
