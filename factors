@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 from sys import argv
 import math
-"""Factorize as numbers as possible into a product of 2 smaller nums"""
+"""Factorize as many numbers as possible into a product of 2 smaller nums"""
 
 
 def factory(num):
