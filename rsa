@@ -7,7 +7,7 @@ import math
 def is_prime(num):
     """checks if a number is prime"""
     i = 3
-    if num & 2 == 0:
+    if num % 2 == 0:
 	return False
     while i * i <= num:
 	if num % i == 0:
